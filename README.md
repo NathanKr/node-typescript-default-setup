@@ -14,7 +14,7 @@ npm i
 compile index.ts to index.js
 
 ```
-npm i -D typescript
+npx tsc index.ts
 ```
 
 </li>
